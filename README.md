@@ -29,13 +29,15 @@ Link: https://github.com/HiPaul13/Elden-Ring-Nightreign-Builder
 
 ---
 
-### MoviLog – Spring Boot Web Application
-Web app with Java backend and TypeScript frontend  
-- REST API with Spring Boot  
-- CRUD functionality  
-- Clear separation between frontend & backend  
+### MoviLog – Android Movie App
+Android application for searching movies and managing personal watchlists  
+- Developed with Kotlin in Android Studio  
+- Movie search functionality  
+- Create and manage custom lists  
+- Mobile UI/UX design and interaction   
 
 Link: https://github.com/MoviLog-CCL3/CCL3-MoviLog
+Pages: https://jonors.github.io/CCL3-WS2025/
 
 ---
 
