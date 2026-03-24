@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Paul 
 
-<!--
-**HiPaul13/HiPaul13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Creative Computing student at the University of Applied Sciences St. Pölten  
+ Focus: Full-Stack Development & Backend Systems  
+ Interests: Full-Stack Development & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React 
+- Backend: Node.js, Express, Spring Boot  
+- Languages: JavaScript, Java, Python, Kotlin, TypeScript, (currently learning C#)  
+- Database: MySQL, PostgreSQL  
+- Tools: Git, REST APIs  
+
+---
+
+## Projects
+
+### Elden Ring Nightreign Build Creator
+Full-stack web application for creating and managing builds  
+- React frontend + Node.js/Express backend  
+- REST API  
+- JWT authentication  
+- MySQL database  
+- User builds, likes & sharing  
+
+Link: https://github.com/HiPaul13/Elden-Ring-Nightreign-Builder
+
+---
+
+### MoviLog – Spring Boot Web Application
+Web app with Java backend and TypeScript frontend  
+- REST API with Spring Boot  
+- CRUD functionality  
+- Clear separation between frontend & backend  
+
+Link: https://github.com/MoviLog-CCL3/CCL3-MoviLog
+
+---
+
+### Traffic Signs Clustering System
+Backend-driven system for processing and clustering traffic sign observations  
+- Import of observation data via scripts  
+- Clustering of geo-based data points to detect traffic signs  
+- Spring Boot backend with REST API  
+- PostgreSQL database  
+- Dockerized setup  
+- Lightweight frontend for visualization  
+
+
+Link: https://github.com/HiPaul13/Traffic-signs-project
+
+---
+
+## Contact
+- Email: hitzl.paul@gmx.at  
+- GitHub: https://github.com/HiPaul13
