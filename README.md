@@ -58,3 +58,4 @@ Link: https://github.com/HiPaul13/Traffic-signs-project
 ## Contact
 - Email: hitzl.paul@gmx.at  
 - GitHub: https://github.com/HiPaul13
+- LinkedIn: https://www.linkedin.com/in/paul-hitzl-60970a3b9/
